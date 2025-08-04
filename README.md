@@ -6,7 +6,7 @@ A responsive weather forecasting app built with **React.js** and the **OpenWeath
 
 ## 🔗 Live Demo
 
-[View Live](https://bharani105.github.io/react-weather-app/)
+[View Live](https://react-weather-app-seven-alpha.vercel.app/)
 ---
 
 ## 🚀 Features
